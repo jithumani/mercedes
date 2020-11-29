@@ -1,0 +1,90 @@
+{
+  "date":null,
+  "statePrice": [
+  {"state":"Andhra Pradesh",
+  "price":	76.07},
+  {
+    "state":"Assam",
+    "price":85.79
+  },
+  {
+    "state":"Bihar",
+    "price":84.73
+  },
+  {
+    "state":"Chhattisgarh",
+    "price":80.94
+  },
+  {
+    "state":"Gujarat",
+    "price":79.44
+  },
+  {
+    "state":"Haryana",
+    "price":80.50
+  },
+  {
+    "state":"Himachal Pradesh",
+    "price":80.74
+  },
+  {
+    "state":"Jammu And Kashmir",
+    "price":84.16
+  },
+  {
+    "state":"Jharkhand",
+    "price":81.56
+  },
+  {
+    "state":"Karnataka",
+    "price":84.46
+  },
+  {
+    "state":"Kerala",
+    "price":84.46
+  },
+  {
+    "state":"Madhya Pradesh",
+    "price":89.91
+  },
+   {
+    "state":"Maharashtra",
+    "price":89.17
+  },
+  {
+    "state":"Odisha",
+    "price":82.74
+  },
+  {
+    "state":"Punjab",
+    "price":84.46
+  },
+  {
+    "state":"Rajasthan",
+    "price":84.46
+  },
+  {
+    "state":"Tamil Nadu",
+    "price":85.61
+  },
+  {
+    "state":"Telangana",
+    "price":85.61
+  },
+  {
+    "state":"Uttar Pradesh",
+    "price":82.30
+  },
+  {
+    "state":"Uttarakhand",
+    "price":82.98
+  },
+  {
+    "state":"West Bengal",
+    "price":83.67
+  },
+  {
+    "state":"Tamil Nadu",
+    "price":82.13
+  }]
+}
