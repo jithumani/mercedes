@@ -1,6 +1,6 @@
 # springboot-ProducerService
 
-[![Build Status](https://travis-ci.org/codecentric/springboot-sample-app.svg?branch=master)](https://travis-ci.org/codecentric/springboot-sample-app)
+[![Build Status](https://github.com/jithumani/mercedes/tree/main/producer?branch=main)](https://github.com/jithumani/mercedes/tree/main/producer)
 
  [Spring Boot](http://projects.spring.io/spring-boot/) Event producer service app for Mercedes.
 

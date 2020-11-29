@@ -1,6 +1,6 @@
 # springboot-ConsumerService
 
-[![Build Status](https://travis-ci.org/codecentric/springboot-sample-app.svg?branch=master)](https://travis-ci.org/codecentric/springboot-sample-app)
+[![Build Status](https://github.com/jithumani/mercedes/tree/main/consumer.svg?branch=main)](https://github.com/jithumani/mercedes/tree/main/consumer)
 
  [Spring Boot](http://projects.spring.io/spring-boot/) Event consumer service app for Mercedes.
 
