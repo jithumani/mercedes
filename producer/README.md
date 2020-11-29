@@ -20,6 +20,12 @@ This will trigger a manual event which will be consumed instantly by consumer se
 
 NOTE: It will start filling petrol once the input has 'openLid'=true and stops untill the next manual trigger of 'openLid'=false.
 
+
+## Authentication details to be passed in Header as basic authentication which are hard coded:
+username :user
+password  :password
+
+
 ## Requirements
 
 For building and running the application you need:
